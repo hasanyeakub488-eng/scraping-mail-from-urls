@@ -1,0 +1,5 @@
+{
+  "name": "AI Email Scraper from URLs",
+  "description": "Upload an Excel file containing a list of URLs. This tool uses AI to visit each URL, extract any email addresses found on the page, and allows you to download the results as a CSV.",
+  "requestFramePermissions": []
+}
